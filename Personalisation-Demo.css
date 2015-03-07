@@ -1,0 +1,18 @@
+.main
+{
+    float:left;
+    position:relative;
+    left:0px;
+}
+
+.inputs 
+{
+    float:left;
+    margin-left:10px;
+}
+
+.tb1, .tb2, .tb3
+{
+    float:left;
+    clear:both;
+}
